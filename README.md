@@ -3,4 +3,4 @@ I'm a junior Unity developer. I don't have any work experience in a company, but
 
 
 ### My technology stack:
-<img src="https://img.shields.io/badge/C#-blue?style=for-the-badge&logo=C Sharp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C#-purple?style=for-the-badge&logo=C Sharp&logoColor=white"/>
